@@ -19,9 +19,8 @@
 
   <!-- trophy cabinet -->
   <img src="https://github-profile-trophy.vercel.app/?username=Rohith2825&theme=algolia&no-frame=true&margin-w=5" alt="Trophies" />
-
-  <!-- achievements strip -->
-  <img src="https://metrics.lecoq.io/Rohith2825?template=classic&base=header%2Cactivity&plugins=achievements&achievements=compact" alt="Achievements" />
+<!-- achievements strip (fixed) -->
+<img src="https://metrics.lecoq.io/Rohith2825?template=classic&base.header=0&base.activity=0&plugin_achievements=compact" alt="Achievements" />
 
 </p>
 
