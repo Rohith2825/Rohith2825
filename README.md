@@ -1,6 +1,5 @@
 <!-- ———  HERO  ——— -->
 <h3 align="center">Rohith V — Founding Engineer @ <a href="https://shackit.com">Shackit.com</a> 🛖⚡</h3>
-<p align="center"><em>Turning small farmers into tech-savvy superheroes through Mithran 🌾</em></p>
 
 <!-- socials -->
 <p align="center">
