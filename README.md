@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohith-venkatakrishnan-059756195">
+<!--   <a href="https://linkedin.com/in/rohith-venkatakrishnan-059756195">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=social" />
-  </a>
+  </a> -->
   <a href="https://instagram.com/roohxth">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=social" />
   </a>
