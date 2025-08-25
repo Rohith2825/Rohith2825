@@ -20,7 +20,7 @@
 ---
 
 ## 🛖 About **Shackit.com** & **StrategyFox.in**
-> **Shackit.com** (alias **strategyfox.in**) is a deep-tech XR comms and e-commerce platform that lets you **configure immersive 3D stores**, **share XR setups** in real time, and **deploy no-code, interactive shop experiences** for cultivation communities and brands alike. Public beta coming soon—get early access!  [oai_citation:6‡LinkedIn](https://in.linkedin.com/company/strategy-fox-xr?utm_source=chatgpt.com) [oai_citation:7‡strategyfox.in](https://strategyfox.in/?utm_source=chatgpt.com)
+> **Shackit.com** (alias **strategyfox.in**) is a deep-tech XR comms and e-commerce platform that lets you **configure immersive 3D stores**, **share XR setups** in real time, and **deploy no-code, interactive shop experiences** for cultivation communities and brands alike. Public beta coming soon—get early access!  [](https://in.linkedin.com/company/strategy-fox-xr?utm_source=chatgpt.com) [](https://strategyfox.in/?utm_source=chatgpt.com)
 
 ---
 
